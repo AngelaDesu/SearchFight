@@ -1,0 +1,10 @@
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\ConsultaMotoresBusqueda.exe.config
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\ConsultaMotoresBusqueda.exe
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\ConsultaMotoresBusqueda.pdb
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\BL.dll
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\DA.dll
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\BL.pdb
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\bin\Debug\DA.pdb
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\obj\Debug\ConsultaMotoresBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\obj\Debug\ConsultaMotoresBusqueda.exe
+C:\Users\Angela\Coding\Cignium\ConsultaMotoresBusqueda\ConsultaMotoresBusqueda\obj\Debug\ConsultaMotoresBusqueda.pdb
